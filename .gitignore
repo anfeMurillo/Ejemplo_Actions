@@ -1,0 +1,23 @@
+# Ignorar el entorno virtual
+
+.venv/
+venv/
+env/
+
+#Ignorar caches
+
+__pycache__/
+
+*.pyc
+*.pyo
+*.pyd
+
+#Archivos de configuracion personales o de sistema
+
+*.log
+*.swp
+.DS_Store
+
+# Ignorar dependencias del entorno
+
+.vscode/
