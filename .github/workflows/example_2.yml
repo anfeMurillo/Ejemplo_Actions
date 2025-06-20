@@ -1,0 +1,15 @@
+name: example number two
+on:
+    push:
+        branches:
+            - main
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+
+            - name: Decir hola
+              run: |
+                echo "Hola mundo"
+                echo "Adios mundo"
