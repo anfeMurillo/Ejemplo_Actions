@@ -6,4 +6,4 @@ escalar = np.array(5)
 
 multiplicacion = escalar.dot(matriz)
 
-print(multiplicacion)
+print(multiplicacio)
