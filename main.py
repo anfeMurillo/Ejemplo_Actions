@@ -6,4 +6,9 @@ escalar = np.array(5)
 
 multiplicacion = escalar.dot(matriz)
 
-print(multiplicacio)
+print(multiplicacion)
+
+def suma (a,b):
+    return (a + b)
+
+print(suma(1,2))
