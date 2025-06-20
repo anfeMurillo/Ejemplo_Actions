@@ -7,3 +7,8 @@ escalar = np.array(5)
 multiplicacion = escalar.dot(matriz)
 
 print(multiplicacion)
+
+def suma (a,b):
+    return (a + b)
+
+print(suma(1,2))
