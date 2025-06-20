@@ -13,3 +13,4 @@ jobs:
               run: |
                 echo "Hola mundo"
                 echo "Adios mundo"
+                echo "Bye"
