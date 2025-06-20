@@ -12,3 +12,10 @@ def suma (a,b):
     return (a + b)
 
 print(suma(1,2))
+
+def resta (a,b):
+    return (a - b)
+
+print(resta(9,8))
+
+print(suma(40,80)+resta(50,30))
